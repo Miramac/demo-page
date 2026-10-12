@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.example.com/</loc>
+    <loc>https://miramac.github.io/demo-page/</loc>
     <lastmod>2026-10-12</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.example.com/leistungen/</loc>
+    <loc>https://miramac.github.io/demo-page/leistungen/</loc>
     <lastmod>2026-10-12</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.example.com/leistungen/webdesign/</loc>
+    <loc>https://miramac.github.io/demo-page/leistungen/webdesign/</loc>
     <lastmod>2026-10-12</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.example.com/leistungen/seo/</loc>
+    <loc>https://miramac.github.io/demo-page/leistungen/seo/</loc>
     <lastmod>2026-10-12</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.example.com/ueber-uns/</loc>
+    <loc>https://miramac.github.io/demo-page/ueber-uns/</loc>
     <lastmod>2026-10-12</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.example.com/ueber-uns/team/</loc>
+    <loc>https://miramac.github.io/demo-page/ueber-uns/team/</loc>
     <lastmod>2026-10-12</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.example.com/kontakt/</loc>
+    <loc>https://miramac.github.io/demo-page/kontakt/</loc>
     <lastmod>2026-10-12</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.example.com/impressum/</loc>
+    <loc>https://miramac.github.io/demo-page/impressum/</loc>
     <lastmod>2026-10-12</lastmod>
     <priority>0.2</priority>
   </url>
