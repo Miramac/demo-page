@@ -1,0 +1,14 @@
+:root { --bg: #fff; --fg: #1d1d1f; --muted: #666; --accent: #0a66c2; --line: #e5e5e5; }
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #121212; --fg: #eee; --muted: #aaa; --accent: #6cb4ff; --line: #333; }
+}
+* { box-sizing: border-box; }
+body { margin: 0; font: 17px/1.6 system-ui, sans-serif; background: var(--bg); color: var(--fg); }
+header, main, footer { max-width: 50rem; margin: 0 auto; padding: 1rem; }
+header { display: flex; flex-wrap: wrap; gap: 1rem; justify-content: space-between; border-bottom: 1px solid var(--line); }
+header nav { display: flex; gap: 1rem; flex-wrap: wrap; }
+.logo { font-weight: 700; }
+a { color: var(--accent); text-decoration: none; }
+a:hover, a[aria-current="page"] { text-decoration: underline; }
+.breadcrumb { font-size: .9rem; color: var(--muted); }
+footer { border-top: 1px solid var(--line); color: var(--muted); font-size: .9rem; }
